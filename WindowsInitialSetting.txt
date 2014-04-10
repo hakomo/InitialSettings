@@ -138,6 +138,8 @@ Git
 
 GitHub
     https://help.github.com/articles/generating-ssh-keys
+    http://memopct.blogspot.jp/2013/08/ssh-addcould-not-open-connection-to.html
+    http://nanase.hatenablog.jp/entry/2013/09/09/232529
 
 Google Chrome
     設定
