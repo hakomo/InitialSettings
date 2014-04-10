@@ -95,7 +95,7 @@ Startup
 
 Start Menu
     Calculator
-    Command Prompt
+    Cygwin Terminal
     Eclipse
     FTP Client
     Google Chrome
@@ -131,8 +131,6 @@ Cygwin
             git
             git-completion
             gcc-g++
-
-    Path > Suitably
 
 Git
     git config --global user.name Suitably
