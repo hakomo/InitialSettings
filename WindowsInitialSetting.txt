@@ -1,0 +1,168 @@
+コントロール パネル
+    タスク バーと［スタート］メニュー
+        タスク バー Tab
+            タスク バーのボタン > 結合しない
+
+        ［スタート］メニュー Tab
+            カスタマイズ
+                ゲーム > この項目を表示しない
+                デバイスとプリンター > uncheck
+                ドキュメント > この項目を表示しない
+                ピクチャ > この項目を表示しない
+                ヘルプ > uncheck
+                ミュージック > この項目を表示しない
+                規定のプログラム > uncheck
+                個人用フォルダー > この項目を表示しない
+                新しくインストールされたプログラムを強調表示する > uncheck
+                OK
+            最近開いたプログラムを［スタート］メニューに保存し表示する > uncheck
+            最近開いた項目を［スタート］メニューとタスク バーに保存し表示する > uncheck
+
+        ツール バー
+            Suitably
+
+        適用
+        OK
+
+    フォルダー オプション
+        表示 Tab
+            ファイルとフォルダーの表示 > 隠しファイル、隠しフォルダー、および隠しドライブを表示する
+            登録されている拡張子は表示しない > uncheck
+        適用
+        OK
+
+    個人設定
+        Windows 7 ベーシック
+
+        デスクトップの背景
+            画像の場所 > 単色
+            その他
+                Suitably
+                色の追加
+                OK
+            変更の保存
+
+    自動再生
+        すべてのメディアとデバイスで自動再生を使う > uncheck
+        保存
+
+エクスプローラ
+    整理
+        レイアウト
+            詳細ウィンドウ > uncheck
+            ナビゲーション ウィンドウ > uncheck
+
+Font
+    http://d.hatena.ne.jp/amachang/20111226/1324874731
+
+プログラムはスタート メニューに表示する
+タスク バーにプログラムは表示しない
+プログラムのショートカットは作成しない
+
+Programs
+    .NET Framework
+    Adobe Reader
+    Archiver
+    Craving Explorer
+    Cygwin
+    DAEMON Tools Lite
+    Eclipse
+    FTP Client
+    Google Chrome
+    Google Drive
+    Hot Soup Processor
+    IrfanView
+    Java Runtime Environment
+    LINE
+    Mailer
+    Microsoft Office
+    Music Player
+    SAI
+    Skype
+    Sublime Text
+    Unity
+    Visual Studio Express for Windows Desktop
+    XAMPP
+    Yet Another Mado tsukai no Yuutsu
+
+Startup
+    Google Drive
+    LINE
+    Mailer
+    Music Player
+    Skype
+    Yet Another Mado tsukai no Yuutsu
+
+Start Menu
+    Calculator
+    Command Prompt
+    Eclipse
+    FTP Client
+    Google Chrome
+    Microsoft Paint
+    SAI
+    Sublime Text
+    Unity
+    Visual Studio Express for Windows Desktop
+    XAMPP
+
+Google Drive
+    Install
+        詳細設定
+            同期オプション Tab
+                フォルダの場所 > Suitably
+            同期を開始
+
+    設定...
+        同期オプション Tab
+            Suitably
+        変更を適用
+
+Yet Another Mado tsukai no Yuutsu
+    設定...
+        追加
+            Suitably
+            OK
+        OK
+
+Cygwin
+    Select Packages
+        Devel
+            git
+            git-completion
+            gcc-g++
+
+    Path > Suitably
+
+Git
+    git config --global user.name Suitably
+    git config --global user.email Suitably
+
+GitHub
+    https://help.github.com/articles/generating-ssh-keys
+
+Google Chrome
+    設定
+        Chrome にログイン
+            Suitably
+            ログイン
+            すべてを同期する > 同期するデータタイプを選択
+            履歴 > uncheck
+            開いているタブ > uncheck
+            OK
+        詳細設定を表示...
+        ダウンロード保存先 > Suitably
+
+TODO
+    Archiver
+    Eclipse
+    FTP Client
+    LINE
+    Mailer
+    Music Player
+    SAI
+    Skype
+    Sublime Text
+    Unity
+    Visual Studio Express for Windows Desktop
+    XAMPP
