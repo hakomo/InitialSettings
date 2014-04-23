@@ -1,20 +1,14 @@
 include "104.mayu"
 
-keymap Region : Global
-
-key C-J = S-Left &Prefix(Region)
-key C-K = S-Down &Prefix(Region)
-key C-L = S-Up &Prefix(Region)
-key C-Semicolon = S-Right &Prefix(Region)
-
-key C-Q = S-Home &Prefix(Region)
-key C-E = S-End &Prefix(Region)
-
-# key = S-PageDown &Prefix(Region)
-# key = S-PageUp &Prefix(Region)
-
-
 keymap Global
+
+mod control += !Enter
+
+mod shift = !!Space
+key R-*Space = &Ignore
+
+mod alt += !!LShift !!E0RShift
+key *E0RShift = M-BackQuote
 
 key *Escape = *BackQuote
 key *Delete = *BackSlash
@@ -24,13 +18,13 @@ key C-K = Down
 key C-L = Up
 key C-Semicolon = Right
 
-key C-Q = Home
+key C-A = Home
 key C-E = End
 
 # key = PageDown
 # key = PageUp
 
-key C-G = Escape
+key C-OpenBracket = Escape
 
 key C-I = Tab
 key C-M = Enter
@@ -38,11 +32,26 @@ key C-M = Enter
 key C-D = Delete
 key C-H = BackSpace
 
-mod shift = !!Space
-key R-*Space = &Ignore
+key A-J = S-Left
+key A-K = S-Down
+key A-L = S-Up
+key A-Semicolon = S-Right
 
-mod control += !Enter
+key A-A = S-Home
+key A-E = S-End
 
-mod alt += !!LShift !!E0RShift
-key *LShift = &Prefix(Region)
-key *E0RShift = M-BackQuote
+# key = S-PageDown
+# key = S-PageUp
+
+key A-*_1 = ~A-*F1
+key A-*_2 = ~A-*F2
+key A-*_3 = ~A-*F3
+key A-*_4 = ~A-*F4
+key A-*_5 = ~A-*F5
+key A-*_6 = ~A-*F6
+key A-*_7 = ~A-*F7
+key A-*_8 = ~A-*F8
+key A-*_9 = ~A-*F9
+key A-*_0 = ~A-*F10
+key A-*Minus= ~A-*F11
+key A-*Equal = ~A-*F12
