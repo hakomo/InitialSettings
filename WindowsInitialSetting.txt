@@ -6,6 +6,8 @@
         ［スタート］メニュー Tab
             カスタマイズ
                 ゲーム > この項目を表示しない
+                コントロールパネル > この項目を表示しない
+                コンピュータ > この項目を表示しない
                 デバイスとプリンター > uncheck
                 ドキュメント > この項目を表示しない
                 ピクチャ > この項目を表示しない
@@ -17,9 +19,6 @@
                 OK
             最近開いたプログラムを［スタート］メニューに保存し表示する > uncheck
             最近開いた項目を［スタート］メニューとタスク バーに保存し表示する > uncheck
-
-        ツール バー
-            Suitably
 
         適用
         OK
@@ -55,10 +54,6 @@
 Font
     http://d.hatena.ne.jp/amachang/20111226/1324874731
 
-プログラムはスタート メニューに表示する
-タスク バーにプログラムは表示しない
-プログラムのショートカットは作成しない
-
 Programs
     .NET Framework
     Adobe Reader
@@ -69,42 +64,23 @@ Programs
     Eclipse
     FTP Client
     Google Chrome
-    Google Drive
+    Google Drive                        Startup
     Hot Soup Processor
     IrfanView
     Java Runtime Environment
-    LINE
-    Mailer
+    LINE                                Startup
+    Mailer                              Startup
     Microsoft Office
     Music Player
+    Python
     SAI
-    Skype
+    Screen Recorder
+    Skype                               Startup
     Sublime Text
-    Unity
     Visual Studio Express for Windows Desktop
+    Windows Live Movie Maker
     XAMPP
-    Yet Another Mado tsukai no Yuutsu
-
-Startup
-    Google Drive
-    LINE
-    Mailer
-    Music Player
-    Skype
-    Yet Another Mado tsukai no Yuutsu
-
-Start Menu
-    Calculator
-    Cygwin Terminal
-    Eclipse
-    FTP Client
-    Google Chrome
-    Microsoft Paint
-    SAI
-    Sublime Text
-    Unity
-    Visual Studio Express for Windows Desktop
-    XAMPP
+    Yet Another Mado tsukai no Yuutsu   Startup
 
 Google Drive
     Install
@@ -152,17 +128,3 @@ Google Chrome
             OK
         詳細設定を表示...
         ダウンロード保存先 > Suitably
-
-TODO
-    Archiver
-    Eclipse
-    FTP Client
-    LINE
-    Mailer
-    Music Player
-    SAI
-    Skype
-    Sublime Text
-    Unity
-    Visual Studio Express for Windows Desktop
-    XAMPP
