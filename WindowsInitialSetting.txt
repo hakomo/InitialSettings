@@ -117,3 +117,43 @@ Google Drive
         同期オプション Tab
             Suitably
         変更を適用
+
+Visual Studio Express for Windows Desktop
+    ツール
+        カスタマイズ
+            テキスト エディター > uncheck
+            標準 > uncheck
+
+            閉じる
+
+        オプション
+
+            環境
+                全般
+                    ステータス バーの表示 > uncheck
+
+            テキスト エディター
+                全般
+                    インジケーター マージン > uncheck
+                    現在の行を強調表示する > uncheck
+
+                C#
+                    書式設定
+                        改行 > uncheck
+                        行間
+                            制御フロー ステートメント内のキーワードの後にスペースを挿入する > uncheck
+                        折り返し
+                            １行に複数のステートメントとメンバー宣言を表示する > uncheck
+
+                すべての言語
+                    全般
+                        行番号 > check
+                        ナビゲーション バー > uncheck
+                        自動かっこ挿入 > uncheck
+                    タブ
+                        スマート > check
+                        タブのサイズ > 4
+                        インデントのサイズ > 4
+                        空白の挿入 > check
+
+                OK

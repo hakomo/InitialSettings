@@ -6,48 +6,48 @@ mod shift = !!Space
 key R-*Space = &Ignore
 
 mod alt += !!LShift !!E0RShift
+key R-*LShift = &Ignore
+key R-*E0RShift = &Ignore
 
 key *LShift = &ShellExecute(, 'c:\\users\\hakomo\\documents\\visual studio 2013\\projects\\setsuna\\release\\setsuna', , , ShowNormal)
-key R-*LShift = &Ignore
 
 key *E0RShift = &ShellExecute(, 'c:\\users\\hakomo\\documents\\visual studio 2013\\projects\\setsuna\\release\\setsuna', , , ShowNormal)
-key R-*E0RShift = &Ignore
 
 key *Escape = *BackQuote
 key *Delete = *BackSlash
 
-key C-A = Home
-key C-D = Delete
-key C-E = End
-key C-H = BackSpace
-key C-I = Tab
+key C-OpenBracket = Escape
 key C-*IC-J = Left
 key C-K = Down
 key C-IC-K = Space
 key C-*IC-L = Up
 key C-*IC-Semicolon = Right
-key C-M = Enter
+key C-A = Home
+key C-E = End
+key C-I = Tab
+key C-*M = ~C-*Enter
+key C-D = Delete
+key C-H = BackSpace
 key C-U = A-BackQuote
-key C-OpenBracket = Escape
 
-key A-C = A-Space C
-key A-M = A-Space M
-key A-S = A-Space S
+key C-*_1 = ~C-*F1
+key C-*_2 = ~C-*F2
+key C-*_3 = ~C-*F3
+key C-*_4 = ~C-*F4
+key C-*_5 = ~C-*F5
+key C-*_6 = ~C-*F6
+key C-*_7 = ~C-*F7
+key C-*_8 = ~C-*F8
+key C-*_9 = ~C-*F9
+key C-*_0 = ~C-*F10
+key C-*Minus = ~C-*F11
+key C-*Equal = ~C-*F12
+
+key A-C = A-Space &Wait(50) C
+key A-M = A-Space &Wait(50) M
+key A-S = A-Space &Wait(50) S
 
 key A-J = W-Left
 key A-K = W-Down
 key A-*L = ~A-W-*Up
 key A-Semicolon = W-Right
-
-key A-*_1 = ~A-*F1
-key A-*_2 = ~A-*F2
-key A-*_3 = ~A-*F3
-key A-*_4 = ~A-*F4
-key A-*_5 = ~A-*F5
-key A-*_6 = ~A-*F6
-key A-*_7 = ~A-*F7
-key A-*_8 = ~A-*F8
-key A-*_9 = ~A-*F9
-key A-*_0 = ~A-*F10
-key A-*Minus = ~A-*F11
-key A-*Equal = ~A-*F12
