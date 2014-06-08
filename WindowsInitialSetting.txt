@@ -77,7 +77,7 @@ Programs
     Screen Recorder
     Skype                                       *   Startup
     Sublime Text                                *
-    Visual Studio Express for Windows Desktop   *
+    Visual Studio Express for Windows Desktop
     Widnows PowerShell                          *
     Windows Live Movie Maker
     XAMPP                                       *
@@ -123,11 +123,9 @@ Visual Studio Express for Windows Desktop
         カスタマイズ
             テキスト エディター > uncheck
             標準 > uncheck
-
             閉じる
 
         オプション
-
             環境
                 全般
                     ステータス バーの表示 > uncheck
@@ -156,4 +154,4 @@ Visual Studio Express for Windows Desktop
                         インデントのサイズ > 4
                         空白の挿入 > check
 
-                OK
+            OK

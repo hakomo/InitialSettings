@@ -51,3 +51,28 @@ key A-J = W-Left
 key A-K = W-Down
 key A-*L = ~A-W-*Up
 key A-Semicolon = W-Right
+
+window Eclipse (/javaw\.exe/ && / - ADT$/) : Global
+
+key C-B = C-F11
+key C-P = C-S-Space
+key C-R = C-S-R
+
+key C-_1 = C-_1
+key C-_4 = C-A-H
+key C-_7 = A-Left
+key C-S-_7 = A-Right
+key C-_8 = C-Period
+key C-S-_8 = C-Comma
+
+window VisualStudioExpress /wdexpress\.exe/ : Global
+
+key C-B = C-F5
+key C-P = C-K P
+key C-Slash = C-E C
+key C-S-Slash = C-E U
+
+key C-_1 = A-S-F10
+key C-_3 = F12
+key C-_4 = C-K R
+key C-*_7 = C-*Minus
