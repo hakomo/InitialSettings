@@ -1,0 +1,23 @@
+[
+    { "Path": "calc", "Text": "Ca&lculator" },
+    { "Path": "cmd", "Text": "&Command Prompt" },
+    { "Path": "%userprofile%\\desktop\\program\\eclipse\\eclipse\\eclipse", "Text": "&Eclipse" },
+    { "Path": "http://google.co.jp", "Text": "&Firefox" },
+    { "Path": "mspaint", "Text": "&Paint" },
+    { "Path": "%userprofile%\\desktop\\program\\sublime text 2.0.2 x64\\sublime_text", "Text": "&Sublime Text" },
+    { "Path": "%programfiles(x86)%\\microsoft visual studio 12.0\\common7\\ide\\wdexpress", "Text": "&Visual Studio" },
+    {},
+    {
+        "Text": "&Directory",
+        "CascadeMenus": [
+            { "Path": "::{20D04FE0-3AEA-1069-A2D8-08002B30309D}", "Text": "Co&mputer" },
+            { "Path": "%userprofile%\\documents\\", "Text": "Do&cuments" },
+            { "Path": "%userprofile%\\documents\\visual studio 2013\\projects\\", "Text": "&Visual Studio" },
+            { "Path": "%userprofile%\\downloads\\", "Text": "Down&loads" },
+            { "Path": "%userprofile%\\desktop\\home\\", "Text": "&Home" },
+            { "Path": "%userprofile%\\desktop\\share\\", "Text": "&Share" },
+            { "Path": "::{21EC2020-3AEA-1069-A2DD-08002B30309D}", "Text": "Control &Panel" },
+            { "Path": "::{645FF040-5081-101B-9F08-00AA002F954E}", "Text": "&Trash Box" },
+        ]
+    }
+]
