@@ -6,12 +6,10 @@ mod shift = !!Space
 key R-*Space = &Ignore
 
 mod alt += !!LShift !!E0RShift
+key *LShift = C-S-L
 key R-*LShift = &Ignore
+key *E0RShift = C-S-L
 key R-*E0RShift = &Ignore
-
-key *LShift = &ShellExecute(, 'c:\\users\\hakomo\\documents\\visual studio 2013\\projects\\setsuna\\release\\setsuna', , , ShowNormal)
-
-key *E0RShift = &ShellExecute(, 'c:\\users\\hakomo\\documents\\visual studio 2013\\projects\\setsuna\\release\\setsuna', , , ShowNormal)
 
 key *Escape = *BackQuote
 key *Delete = *BackSlash
@@ -43,10 +41,6 @@ key C-*_0 = ~C-*F10
 key C-*Minus = ~C-*F11
 key C-*Equal = ~C-*F12
 
-key A-C = A-Space &Wait(50) C
-key A-M = A-Space &Wait(50) M
-key A-S = A-Space &Wait(50) S
-
 key A-J = W-Left
 key A-K = W-Down
 key A-*L = ~A-W-*Up
@@ -65,7 +59,7 @@ key C-S-_7 = A-Right
 key C-_8 = C-Period
 key C-S-_8 = C-Comma
 
-window VisualStudioExpress /wdexpress\.exe/ : Global
+window VisualStudio /wdexpress\.exe/ : Global
 
 key C-B = C-F5
 key C-P = C-K P
