@@ -6,22 +6,23 @@ mod shift = !!Space
 key R-*Space = &Ignore
 
 mod alt += !!LShift !!E0RShift
-key *LShift = C-S-L
 key R-*LShift = &Ignore
-key *E0RShift = C-S-L
 key R-*E0RShift = &Ignore
+
+key *LShift = &ShellExecute(, 'C:\\Users\\hakomo\\Desktop\\share\\InitialSettings\\Launcher\\launcher', , , ShowNormal)
+key *E0RShift = &ShellExecute(, 'C:\\Users\\hakomo\\Desktop\\share\\InitialSettings\\Launcher\\launcher', , , ShowNormal)
 
 key *Escape = *BackQuote
 key *Delete = *BackSlash
 
 key C-G = Escape
-key C-*IC-J = Left
-key C-K = Down
+key C-*IC-*J = ~C-*Left
+key C-*K = ~C-*Down
 key C-IC-K = Space
-key C-*IC-L = Up
-key C-*IC-Semicolon = Right
-key C-A = Home
-key C-E = End
+key C-*IC-*L = ~C-*Up
+key C-*IC-*Semicolon = ~C-*Right
+key C-*A = ~C-*Home
+key C-*E = ~C-*End
 key C-*I = ~C-*Tab
 key C-*M = ~C-*Enter
 key C-D = Delete
@@ -42,7 +43,6 @@ key C-*_0 = ~C-*F10
 key C-*Minus = ~C-*F11
 key C-*Equal = ~C-*F12
 
-key A-*I = A-*Tab
 key A-J = W-Left
 key A-K = W-Down
 key A-*L = ~A-W-*Up
