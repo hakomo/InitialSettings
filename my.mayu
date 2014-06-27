@@ -16,19 +16,21 @@ key *Escape = *BackQuote
 key *Delete = *BackSlash
 
 key C-G = Escape
+key C-S-G = A-Space &Wait(50) C
 key C-*IC-*J = ~C-*Left
 key C-*K = ~C-*Down
 key C-IC-K = Space
 key C-*IC-*L = ~C-*Up
 key C-*IC-*Semicolon = ~C-*Right
 key C-*A = ~C-*Home
+key C-A-A = C-A
 key C-*E = ~C-*End
 key C-*I = ~C-*Tab
 key C-*M = ~C-*Enter
-key C-D = Delete
 key C-H = BackSpace
+key C-S-H = Delete
 key C-U = A-BackQuote
-key C-Q = A-Space &Wait(50) C
+key C-S-U = Apps
 
 key C-*_1 = ~C-*F1
 key C-*_2 = ~C-*F2
@@ -43,6 +45,7 @@ key C-*_0 = ~C-*F10
 key C-*Minus = ~C-*F11
 key C-*Equal = ~C-*F12
 
+key A-B = W-B
 key A-J = W-Left
 key A-K = W-Down
 key A-*L = ~A-W-*Up
