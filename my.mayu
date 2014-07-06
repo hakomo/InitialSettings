@@ -2,15 +2,15 @@ include '104.mayu'
 
 mod control += !Enter
 
-mod shift = !!Space
+mod shift += !!Space
 key R-*Space = &Ignore
 
-mod alt += !!LShift !!E0RShift
-key R-*LShift = &Ignore
-key R-*E0RShift = &Ignore
+mod alt += !!LeftShift !!E0RightShift
+key R-*LeftShift = &Ignore
+key R-*E0RightShift = &Ignore
 
-key *LShift = &ShellExecute(, 'C:\\Users\\hakomo\\Desktop\\share\\InitialSettings\\Launcher\\launcher', , , ShowNormal)
-key *E0RShift = &ShellExecute(, 'C:\\Users\\hakomo\\Desktop\\share\\InitialSettings\\Launcher\\launcher', , , ShowNormal)
+key *LeftShift = &ShellExecute(, 'C:\\Users\\hakomo\\Desktop\\share\\InitialSettings\\Launcher\\launcher', , , ShowNormal)
+key *E0RightShift = &ShellExecute(, 'C:\\Users\\hakomo\\Desktop\\share\\InitialSettings\\Launcher\\launcher', , , ShowNormal)
 
 key *Escape = *BackQuote
 key *Delete = *BackSlash
