@@ -3,11 +3,11 @@
     { "Path": "cmd", "Text": "&Command Prompt" },
     { "Path": "%USERPROFILE%\\Desktop\\program\\eclipse\\eclipse\\eclipse", "Text": "&Eclipse" },
     { "Path": "https://google.co.jp", "Text": "&Firefox" },
-    { "Path": "%USERPROFILE%\\Desktop\\share\\InitialSettings\\K2PD\\k2pd", "Text": "&K2PD" },
+    { "Path": "%USERPROFILE%\\Desktop\\share\\InitialSettings\\key2pode\\key2pode", "Text": "&key2pode" },
     { "Path": "mspaint", "Text": "&Paint" },
     { "Path": "%USERPROFILE%\\Desktop\\program\\Sublime Text 2.0.2 x64\\sublime_text", "Text": "&Sublime Text" },
     { "Path": "%ProgramFiles(x86)%\\Microsoft Visual Studio 12.0\\Common7\\IDE\\WDExpress", "Text": "&Visual Studio" },
-    { "Path": "%USERPROFILE%\\Desktop\\share\\InitialSettings\\FitWin\\fitwin", "Text": "&Window Manager" },
+    { "Path": "%USERPROFILE%\\Desktop\\share\\InitialSettings\\fitwin\\fitwin", "Text": "&Window Manager" },
     {},
     {
         "Text": "&Directory",
