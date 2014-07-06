@@ -58,21 +58,26 @@ Programs
     .NET Framework
     Adobe Reader
     Archiver                                    *
+    Chocolatey
     Craving Explorer
     DAEMON Tools Lite
     Eclipse                                     *
     Firefox
     FTP Client                                  *
+    Git
+    Google Chrome
     Google Drive                                    Startup
     Hot Soup Processor
     IrfanView
     Java Runtime Environment
     LINE                                            Startup
     Mailer                                      *   Startup
+    Microsoft Calculator
     Microsoft Office
     Microsoft Paint
     Music Player                                *
     Python
+    Ruby
     SAI
     Screen Recorder
     Skype                                       *   Startup
