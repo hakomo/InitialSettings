@@ -2,7 +2,7 @@ include '104.mayu'
 
 mod control += !Enter
 
-mod shift += !!Space
+mod shift = !!Space
 key R-*Space = &Ignore
 
 mod alt += !!LeftShift !!E0RightShift
