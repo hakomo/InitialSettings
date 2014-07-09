@@ -9,14 +9,14 @@ mod alt += !!LeftShift !!E0RightShift
 key R-*LeftShift = &Ignore
 key R-*E0RightShift = &Ignore
 
-key *LeftShift = &ShellExecute(, 'C:\\Users\\hakomo\\Desktop\\share\\InitialSettings\\Launcher\\launcher', , , ShowNormal)
-key *E0RightShift = &ShellExecute(, 'C:\\Users\\hakomo\\Desktop\\share\\InitialSettings\\Launcher\\launcher', , , ShowNormal)
+key *LeftShift = &ShellExecute(, '..\\launcher', , , ShowNormal)
+key *E0RightShift = &ShellExecute(, '..\\launcher', , , ShowNormal)
 
 key *Escape = *BackQuote
 key *Delete = *BackSlash
 
 key C-G = Escape
-key C-S-G = A-Space &Wait(50) C
+key C-S-G = &ShellExecute(, '..\\closeforewin', , , ShowNormal)
 key C-*IC-*J = ~C-*Left
 key C-*K = ~C-*Down
 key C-IC-K = Space
