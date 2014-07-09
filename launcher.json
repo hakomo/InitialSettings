@@ -1,0 +1,26 @@
+[
+    { "FullPath": "calc", "Text": "&Calculator" },
+    { "RelativePath": "..\\..\\program\\eclipse\\eclipse\\eclipse", "Text": "&Eclipse" },
+    { "FullPath": "https://google.co.jp", "Text": "&Firefox" },
+    { "RelativePath": "key2pode", "Text": "&key2pode" },
+    { "FullPath": "mspaint", "Text": "Pai&nt" },
+    { "FullPath": "powershell", "Text": "&PowerShell" },
+    { "RelativePath": "..\\common\\Sublime Text 2.0.2 x64\\sublime_text", "Text": "&Sublime Text" },
+    { "FullPath": "taskmgr", "Text": "&Task Manager" },
+    { "FullPath": "C:\\Program Files (x86)\\Microsoft Visual Studio 12.0\\Common7\\IDE\\WDExpress", "Text": "&Visual Studio" },
+    { "RelativePath": "fitwin\\fitwin", "Text": "&Window Manager" },
+    {},
+    {
+        "Text": "&Directory",
+        "CascadeMenus": [
+            { "FullPath": "::{20D04FE0-3AEA-1069-A2D8-08002B30309D}", "Text": "Co&mputer" },
+            { "FullPath": "%USERPROFILE%\\Documents\\", "Text": "Do&cuments" },
+            { "FullPath": "%USERPROFILE%\\Documents\\Visual Studio 2013\\Projects\\", "Text": "&Visual Studio" },
+            { "FullPath": "%USERPROFILE%\\Downloads\\", "Text": "Down&loads" },
+            { "FullPath": "%USERPROFILE%\\Desktop\\home\\", "Text": "&Home" },
+            { "FullPath": "%USERPROFILE%\\Desktop\\share\\", "Text": "&Share" },
+            { "FullPath": "control", "Text": "Control &Panel" },
+            { "FullPath": "::{645FF040-5081-101B-9F08-00AA002F954E}", "Text": "&Trash Box" },
+        ]
+    },
+]
