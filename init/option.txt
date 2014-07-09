@@ -1,0 +1,169 @@
+﻿
+コントロール パネル
+    タスク バーと［スタート］メニュー
+        タスク バー Tab
+            タスク バーのボタン > 結合しない
+
+        ［スタート］メニュー Tab
+            カスタマイズ
+                ゲーム > この項目を表示しない
+                コントロールパネル > この項目を表示しない
+                コンピュータ > この項目を表示しない
+                デバイスとプリンター > uncheck
+                ドキュメント > この項目を表示しない
+                ピクチャ > この項目を表示しない
+                ヘルプ > uncheck
+                ミュージック > この項目を表示しない
+                規定のプログラム > uncheck
+                個人用フォルダー > この項目を表示しない
+                新しくインストールされたプログラムを強調表示する > uncheck
+                OK
+            最近開いたプログラムを［スタート］メニューに保存し表示する > uncheck
+            最近開いた項目を［スタート］メニューとタスク バーに保存し表示する > uncheck
+
+        適用
+        OK
+
+    フォルダー オプション
+        表示 Tab
+            ファイルとフォルダーの表示 > 隠しファイル、隠しフォルダー、および隠しドライブを表示する
+            登録されている拡張子は表示しない > uncheck
+        適用
+        OK
+
+    個人設定
+        Windows 7 ベーシック
+
+        デスクトップの背景
+            画像の場所 > 単色
+            その他
+                Suitably
+                色の追加
+                OK
+            変更の保存
+
+    自動再生
+        すべてのメディアとデバイスで自動再生を使う > uncheck
+        保存
+
+Explorer
+    整理
+        レイアウト
+            詳細ウィンドウ > uncheck
+            ナビゲーション ウィンドウ > uncheck
+
+Font
+    http://d.hatena.ne.jp/amachang/20111226/1324874731
+
+Programs
+    Calculator
+    Paint
+    Explorer                                  *
+    Task Manager
+
+    Chocolatey
+    Craving Explorer
+    Eclipse                                   *
+    FTP Client                                *
+    Google Drive                                Startup
+    Hot Soup Processor
+    IrfanView
+    Mailer                                    * Startup
+    Microsoft Office
+    Music Player                              *
+    SAI
+    Screen Recorder
+    Sublime Text                              *
+    Yet Another Mado tsukai no Yuutsu         * Startup
+    XAMPP
+
+    .NET Framework
+    7-Zip
+    Adobe Reader
+    DAEMON Tools Lite
+    Firefox                                   *
+    Git                                       *
+    Google Chrome
+    Java Runtime Environment
+    LINE                                        Startup
+    PIP                                       *
+    PowerShell                                *
+    Python
+    Ruby
+    Skype                                     * Startup
+    Visual Studio Express for Web             *
+    Visual Studio Express for Windows Desktop *
+    Windows Essentials
+
+Google Drive
+    Install
+        詳細設定
+            同期オプション Tab
+                フォルダの場所 > %USERPROFILE%\desktop\share\
+            同期を開始
+
+    設定...
+        同期オプション Tab
+            Suitably
+        変更を適用
+
+Firefox
+    メニュー
+        カスタマイズ
+            検索, ブックマーク, ダウンロード, ホーム > 移動
+            カスタマイズを終了
+
+    ツール
+        オプション
+            一般 Tab
+                ダウンロード
+                    参照 > デスクトップ
+
+            タブ Tab
+                同時に複数のタブを閉じるときは確認する > uncheck
+                タブが選択されるまでページを読み込まない > uncheck
+
+            OK
+
+    アドオン
+        KeySnail
+            HoK
+        Omnibar
+
+Visual Studio Express for Windows Desktop
+    ツール
+        カスタマイズ
+            テキスト エディター > uncheck
+            標準 > uncheck
+            閉じる
+
+        オプション
+            環境
+                全般
+                    ステータス バーの表示 > uncheck
+
+            テキスト エディター
+                全般
+                    インジケーター マージン > uncheck
+                    現在の行を強調表示する > uncheck
+
+                C#
+                    書式設定
+                        改行 > uncheck
+                        行間
+                            制御フロー ステートメント内のキーワードの後にスペースを挿入する > uncheck
+                        折り返し
+                            １行に複数のステートメントとメンバー宣言を表示する > uncheck
+
+                すべての言語
+                    全般
+                        行番号 > check
+                        ナビゲーション バー > uncheck
+                        自動かっこ挿入 > uncheck
+                    タブ
+                        スマート > check
+                        タブのサイズ > 4
+                        インデントのサイズ > 4
+                        空白の挿入 > check
+
+            OK
