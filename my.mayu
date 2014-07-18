@@ -45,7 +45,6 @@ key C-*_0 = ~C-*F10
 key C-*Minus = ~C-*F11
 key C-*Equal = ~C-*F12
 
-key A-B = W-B
 key A-J = W-Left
 key A-K = W-Down
 key A-*L = ~A-W-*Up
@@ -53,7 +52,6 @@ key A-Semicolon = W-Right
 
 window Eclipse (/javaw\.exe/ && / - ADT$/) : Global
 
-key C-B = C-F11
 key C-P = C-S-Space
 key C-R = C-S-R
 
@@ -66,7 +64,6 @@ key C-S-_8 = C-Comma
 
 window VisualStudio /wdexpress\.exe/ : Global
 
-key C-B = C-F5
 key C-P = C-K P
 key C-Slash = C-E C
 key C-S-Slash = C-E U
