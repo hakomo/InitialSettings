@@ -1,4 +1,4 @@
-include '104.mayu'
+include '104.mayu' # 日本語
 
 mod control += !Enter
 
@@ -49,6 +49,10 @@ key A-J = W-Left
 key A-K = W-Down
 key A-*L = ~A-W-*Up
 key A-Semicolon = W-Right
+
+window CommandPrompt /ConsoleWindowClass/ : Global
+
+key C-V = A-Space E P
 
 window Eclipse (/javaw\.exe/ && / - ADT$/) : Global
 

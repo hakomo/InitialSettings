@@ -1,10 +1,10 @@
-Fit Win 0.3.20140712 - ã‚¦ã‚£ãƒ³ãƒ‰ã‚¦ã®ç§»å‹•ãƒ»ã‚µã‚¤ã‚ºå¤‰æ›´ãƒ„ãƒ¼ãƒ«
+Fit Win v1.1 2014/10/19
+•¡”‚ÌƒEƒBƒ“ƒhƒE‚ð•À‚×‚½‚èAˆÚ“®EƒTƒCƒY•ÏX‚Å‚«‚é Windows —pƒtƒŠ[ƒ\ƒtƒg‚Å‚·B
 
-ä¸‹è¨˜ï¼µï¼²ï¼¬ã‚’ã”è¦§ãã ã•ã„
+‰º‹L URL ‚ð‚²——‚­‚¾‚³‚¢B
 http://hakomo.github.io/fitwin/
 
-å–ã‚Šæ‰±ã„ç¨®åˆ¥ : ãƒ•ãƒªãƒ¼ã‚½ãƒ•ãƒˆ
-å‹•ä½œç’°å¢ƒ : Windows 8, 7, Vista 32, 64bit
-ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ« : ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã‚’è§£å‡ã—ã¦ãã ã•ã„
-ã‚¢ãƒ³ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ« : ãƒ¬ã‚¸ã‚¹ãƒˆãƒªã¯ä½¿ç”¨ã—ã¦ã„ãªã„ã®ã§ã€ãƒ•ã‚©ãƒ«ãƒ€ã”ã¨å‰Šé™¤ã—ã¦ãã ã•ã„
-é€£çµ¡å…ˆ : hakomof@gmail.com
+“®ìŠÂ‹« : Windows 8/7 32/64bit E .NET Framework 4.5 E Internet Explorer 10 ˆÈã
+ƒCƒ“ƒXƒg[ƒ‹ : ƒ_ƒEƒ“ƒ[ƒh‚µ‚½ƒtƒ@ƒCƒ‹‚ð‰ð“€‚µ‚Ä‚­‚¾‚³‚¢B
+ƒAƒ“ƒCƒ“ƒXƒg[ƒ‹ : ƒŒƒWƒXƒgƒŠ‚ÍŽg—p‚µ‚Ä‚¢‚È‚¢‚Ì‚ÅAƒtƒHƒ‹ƒ_‚²‚Æíœ‚µ‚Ä‚­‚¾‚³‚¢B
+˜A—æ : hakomof@gmail.com

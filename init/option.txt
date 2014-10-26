@@ -74,8 +74,9 @@ Programs
     SAI
     Screen Recorder
     Sublime Text                              *
-    Yet Another Mado tsukai no Yuutsu         * Startup
+    WinShot
     XAMPP
+    Yet Another Mado tsukai no Yuutsu         * Startup
 
     .NET Framework
     7-Zip
@@ -86,6 +87,7 @@ Programs
     Google Chrome
     Java Runtime Environment
     LINE                                        Startup
+    Node.js                                   *
     PIP                                       *
     PowerShell                                *
     Python
@@ -145,7 +147,6 @@ Visual Studio Express for Windows Desktop
             テキスト エディター
                 全般
                     インジケーター マージン > uncheck
-                    現在の行を強調表示する > uncheck
 
                 C#
                     書式設定
